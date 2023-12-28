@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30abe61b-150c-4819-9b9b-4d4af4523dc5" name="Changes" comment="Execícios 27/12">
-      <change afterPath="$PROJECT_DIR$/Python/Ex0044-IMC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Ex0046-Método de pagamento.py" afterDir="false" />
+    <list default="true" id="30abe61b-150c-4819-9b9b-4d4af4523dc5" name="Changes" comment="Execícios 28/12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0044-Método de pagamento simples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Ex0044-Método de pagamento simples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
     "Python.Ex0040-Idades para atletas.executor": "Run",
     "Python.Ex0043-TriângulosV2.executor": "Run",
     "Python.Ex0044-IMC.executor": "Run",
+    "Python.Ex0044-Método de pagamento simples.executor": "Run",
     "Python.Ex0046-Método de pagamento.executor": "Run",
     "Python.Teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -111,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703779072344</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Execícios 28/12">
+      <option name="closed" value="true" />
+      <created>1703784719379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703784719379</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testando pycharm" />
     <MESSAGE value="Execícios 27/12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Execícios 27/12" />
+    <MESSAGE value="Execícios 28/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Execícios 28/12" />
   </component>
 </project>
