@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30abe61b-150c-4819-9b9b-4d4af4523dc5" name="Changes" comment="Execícios 28/12">
+    <list default="true" id="30abe61b-150c-4819-9b9b-4d4af4523dc5" name="Changes" comment="Execícios 29/12">
+      <change afterPath="$PROJECT_DIR$/Python/Ex0050-Tabuada usando for in range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Ex0051-Soma pares com for in range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Ex0052-PA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Ex0044-Método de pagamento simples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Ex0044-Método de pagamento simples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0049-Soma de números múltiplos de 3 até 500.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,13 @@
     "Python.Ex0043-TriângulosV2.executor": "Run",
     "Python.Ex0044-IMC.executor": "Run",
     "Python.Ex0044-Método de pagamento simples.executor": "Run",
+    "Python.Ex0045-Pedra, papel e tesoura.executor": "Run",
+    "Python.Ex0046-Fogos de artifício.executor": "Run",
     "Python.Ex0046-Método de pagamento.executor": "Run",
+    "Python.Ex0047-Números pares com for.executor": "Run",
+    "Python.Ex0049-Soma de números múltiplos de 3 até 500.executor": "Run",
+    "Python.Ex0051-Soma pares com for in range.executor": "Run",
+    "Python.Ex0052-PA.executor": "Run",
     "Python.Teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -119,7 +128,47 @@
       <option name="project" value="LOCAL" />
       <updated>1703784719379</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Execícios 28/12">
+      <option name="closed" value="true" />
+      <created>1703787938669</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703787938669</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Execícios 28/12">
+      <option name="closed" value="true" />
+      <created>1703796265559</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703796265560</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Execícios 28/12">
+      <option name="closed" value="true" />
+      <created>1703831099236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703831099236</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Execícios 29/12">
+      <option name="closed" value="true" />
+      <created>1703831367019</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703831367019</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Execícios 29/12">
+      <option name="closed" value="true" />
+      <created>1703832208880</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703832208880</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +186,7 @@
     <MESSAGE value="Testando pycharm" />
     <MESSAGE value="Execícios 27/12" />
     <MESSAGE value="Execícios 28/12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Execícios 28/12" />
+    <MESSAGE value="Execícios 29/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Execícios 29/12" />
   </component>
 </project>
