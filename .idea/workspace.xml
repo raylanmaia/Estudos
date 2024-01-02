@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30abe61b-150c-4819-9b9b-4d4af4523dc5" name="Changes" comment="Exercícios 02/01">
+      <change afterPath="$PROJECT_DIR$/Python/Ex0060.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,7 @@
     "Python.Ex0052-Primos.executor": "Run",
     "Python.Ex0057.executor": "Run",
     "Python.Ex0059.executor": "Run",
+    "Python.Ex0060.executor": "Run",
     "Python.Maior Idade.executor": "Run",
     "Python.Teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
