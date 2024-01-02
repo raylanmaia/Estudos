@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30abe61b-150c-4819-9b9b-4d4af4523dc5" name="Changes" comment="Exercícios 30/12">
-      <change afterPath="$PROJECT_DIR$/Python/Ex0052-Primos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0052-Primos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Maior Idade.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Python.Ex0051-Soma pares com for in range.executor": "Run",
     "Python.Ex0052-PA.executor": "Run",
     "Python.Ex0052-Primos.executor": "Run",
+    "Python.Maior Idade.executor": "Run",
     "Python.Teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
