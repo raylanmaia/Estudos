@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30abe61b-150c-4819-9b9b-4d4af4523dc5" name="Changes" comment="Exercícios 04/01" />
+    <list default="true" id="30abe61b-150c-4819-9b9b-4d4af4523dc5" name="Changes" comment="Exercícios 04/01">
+      <change afterPath="$PROJECT_DIR$/HackerRank/HR1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,36 +36,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Ex0037-Comparando números.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0038-Alistamento militar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0039-Média.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0040-Idades para atletas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0043-TriângulosV2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0044-IMC.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0044-Método de pagamento simples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0045-Pedra, papel e tesoura.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0046-Fogos de artifício.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0046-Método de pagamento.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0047-Números pares com for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0049-Soma de números múltiplos de 3 até 500.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0051-Soma pares com for in range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0052-PA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0052-Primos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex0061.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Maior Idade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/maiar/Documents/GitHub/Estudos&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ex0037-Comparando números.executor": "Run",
+    "Python.Ex0038-Alistamento militar.executor": "Run",
+    "Python.Ex0039-Média.executor": "Run",
+    "Python.Ex0040-Idades para atletas.executor": "Run",
+    "Python.Ex0043-TriângulosV2.executor": "Run",
+    "Python.Ex0044-IMC.executor": "Run",
+    "Python.Ex0044-Método de pagamento simples.executor": "Run",
+    "Python.Ex0045-Pedra, papel e tesoura.executor": "Run",
+    "Python.Ex0046-Fogos de artifício.executor": "Run",
+    "Python.Ex0046-Método de pagamento.executor": "Run",
+    "Python.Ex0047-Números pares com for.executor": "Run",
+    "Python.Ex0049-Soma de números múltiplos de 3 até 500.executor": "Run",
+    "Python.Ex0051-Soma pares com for in range.executor": "Run",
+    "Python.Ex0052-PA.executor": "Run",
+    "Python.Ex0052-Primos.executor": "Run",
+    "Python.Ex0057.executor": "Run",
+    "Python.Ex0059.executor": "Run",
+    "Python.Ex0060.executor": "Run",
+    "Python.Ex0061.executor": "Run",
+    "Python.HR1.executor": "Run",
+    "Python.Maior Idade.executor": "Run",
+    "Python.Teste.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/maiar/Documents/GitHub/Estudos",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -216,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704421089905</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Exercícios 04/01">
+      <option name="closed" value="true" />
+      <created>1704467850630</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704467850630</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
