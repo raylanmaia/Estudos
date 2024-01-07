@@ -5,7 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30abe61b-150c-4819-9b9b-4d4af4523dc5" name="Changes" comment="Exercícios 04/01">
-      <change afterPath="$PROJECT_DIR$/HackerRank/HR1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0001-Hello World.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0002-Simular Atendente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0003-Soma de dois números digitados.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0004-Dissecar variável.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0005-Antecessor e sucessor de um número.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0006-Dobro-Triplo e Raiz quadrada.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0007-Média aritmética.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0008-Conversor de medidas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0009-Tabuada.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0010-De reais para dólares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0011-Pintando uma parede.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0012-Desconto de 5%.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0013-Reajuste salarial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0014-Conversor de temperaturas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0015-Aluguel de carros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0016-Porção inteira do número.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0017-Catetos e hipotenusa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0018-Seno, cosseno e tangente de um ângulo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0019-Sorteio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0020-Sorteio de ordem na lista.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0022-Analisando Texto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0023-Separando dígitos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0024-Verificando primeiras letras de um texto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0025-Encontrar string dentro de outra string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0028-Jogo da advinhação.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0029-Radar eletrônico.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0030-Par ou ímpar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0031-Viagem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0034-Aumento salarial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0035-TriânguloV1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0037-Comparando números.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0038-Alistamento militar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0039-Média.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0040-Idades para atletas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0042-TriângulosV2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0043-IMC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0044-Método de pagamento simples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0044-Método de pagamento.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0045-Pedra, papel e tesoura.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0046-Fogos de artifício.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0047-Números pares com for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0050-Tabuada usando for in range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0051-Soma pares com for in range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0052-PA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0057.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0059.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0060.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Ex0061.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Maior Idade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Progressão Aritmética.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,37 +85,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Ex0037-Comparando números.executor": "Run",
-    "Python.Ex0038-Alistamento militar.executor": "Run",
-    "Python.Ex0039-Média.executor": "Run",
-    "Python.Ex0040-Idades para atletas.executor": "Run",
-    "Python.Ex0043-TriângulosV2.executor": "Run",
-    "Python.Ex0044-IMC.executor": "Run",
-    "Python.Ex0044-Método de pagamento simples.executor": "Run",
-    "Python.Ex0045-Pedra, papel e tesoura.executor": "Run",
-    "Python.Ex0046-Fogos de artifício.executor": "Run",
-    "Python.Ex0046-Método de pagamento.executor": "Run",
-    "Python.Ex0047-Números pares com for.executor": "Run",
-    "Python.Ex0049-Soma de números múltiplos de 3 até 500.executor": "Run",
-    "Python.Ex0051-Soma pares com for in range.executor": "Run",
-    "Python.Ex0052-PA.executor": "Run",
-    "Python.Ex0052-Primos.executor": "Run",
-    "Python.Ex0057.executor": "Run",
-    "Python.Ex0059.executor": "Run",
-    "Python.Ex0060.executor": "Run",
-    "Python.Ex0061.executor": "Run",
-    "Python.HR1.executor": "Run",
-    "Python.Maior Idade.executor": "Run",
-    "Python.Teste.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/maiar/Documents/GitHub/Estudos",
-    "settings.editor.selected.configurable": "actions.on.save"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Ex0037-Comparando números.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0038-Alistamento militar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0039-Média.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0040-Idades para atletas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0043-TriângulosV2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0044-IMC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0044-Método de pagamento simples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0045-Pedra, papel e tesoura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0046-Fogos de artifício.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0046-Método de pagamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0047-Números pares com for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0049-Soma de números múltiplos de 3 até 500.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0051-Soma pares com for in range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0052-PA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0052-Primos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex0061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HR1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Maior Idade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maiar/Documents/GitHub/Estudos&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
